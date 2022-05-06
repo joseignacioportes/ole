@@ -1,0 +1,34 @@
+input:focus
+{
+box-shadow: 0 0 6px rgba(81, 203, 238, 1);
+}
+
+input.user
+{
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #000000;
+padding: 0 4px 0 4px;
+padding-left: 28px;
+width: 190px;
+height: 25px;
+background-position: 2% 50%;
+background-image: url(../images/user.png);
+background-repeat: no-repeat;
+}
+
+input.password
+{
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #000000;
+padding: 0 4px 0 4px;
+padding-left: 28px;
+width: 190px;
+height: 25px;
+background-position: 2% 50%;
+background-image: url(../images/password.png);
+background-repeat: no-repeat;
+}

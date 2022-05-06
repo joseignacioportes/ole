@@ -1,0 +1,18 @@
+img.round_image
+{
+border: 1px solid grey;
+margin: 0;
+padding: 0;
+border-radius: 800px;
+overflow: hidden;
+}
+
+
+textarea.formated_txtarea
+{
+ width: 500px;
+ height: 90px;
+ font-size: 10pt;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ border: 1px solid black;
+}

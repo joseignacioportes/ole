@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/aspnet/ajax/cdn/jquery-ui/cdnjqueryui1112
